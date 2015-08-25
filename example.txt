@@ -5,8 +5,8 @@ run indefinitely at 70 % (wu);
 # The watch will automatically switch between the 'fast' and 'slow' without
 # requiring you to press the lap button
 repeat 10 times {
-  run 1m30s at 15 kmh +- 0.5 (fast); 
-  run 1m0s at 10 kmh +- 1 (slow); 
+  run 1m30s at 15 kmh +- 0.5 (fast); # 0.5 kmh with margin
+  run 1m0s at 10 kmh +- 1 (slow); # 1 kmh margin
 };
 
-run 4.5 km at 9 kmh (cd); # cooldown for 4.5 km, without any target
+run 4.5 km (cd); # cooldown for 4.5 km, without any target
