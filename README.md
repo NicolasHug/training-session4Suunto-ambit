@@ -67,7 +67,7 @@ your target, the 'target app' will display '--'. It will display '++' if you're
 running higher, and 'ok' if you're doing well.                                  
                                                                                 
 With the target, you can specify a given margin (ex: `+- 2`). If your target    
-was 10kmh with a margin of 1, the watch will tell you you're ok as long as you  
+was 10kmh with a margin of 2 the watch will tell you you're ok as long as you  
 run between 8 and 12 kmh.                                                       
                                                                                 
 You can add a small text between parenthesis at the end of you're running step. 
