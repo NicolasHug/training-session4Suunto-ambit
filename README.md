@@ -13,6 +13,7 @@ How it works
 Run `python generateCode.py example.txt` to get a good grasp of it.             
                                                                                 
 Basically, all you need is write a small training session script as this one:   
+        
         # warmup until lap button is pressed, with target at 70% of your max HR 
         run indefinitely at 70 % (wu);                                          
                                                                                 
