@@ -1,4 +1,9 @@
+*.swp
+*.pyc
 ply/
 __pycache__/
 parsetab.py
 parser.out
+trainingsession.egg-info/
+build
+dist/
